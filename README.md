@@ -13,4 +13,11 @@
 
 ### * **Plataforma de mapas**:
 * **OpenStreetMaps**: https://www.openstreetmap.org/
+* **OpenStreetMaps repo**: https://github.com/openstreetmap
 * **Leafletjs**: https://leafletjs.com/
+
+
+### * **Repos con interaccion OSM, React native**:
+* **APP Caminos rotos**: https://github.com/mnindrazaka/React-Native-OSM
+
+
